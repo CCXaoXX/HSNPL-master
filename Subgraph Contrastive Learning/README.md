@@ -10,21 +10,6 @@
   - sub_adj.npy: the Adjacency Matrix of subgraph through sampling
   - features.npy: the pre-processed features of each subgraph
 
-## Datasets
-
-- MUTAG: The MUTAG dataset consists of 188 chemical compounds divided into two
-  classes according to their mutagenic effect on a bacterium.
-- D&D: D&D is a dataset of 1178 protein structures (Dobson and Doig, 2003). Each protein is
-  represented by a graph, in which the nodes are amino acids and two nodes are connected
-  by an edge if they are less than 6 Angstroms apart. The prediction task is to classify
-  the protein structures into enzymes and non-enzymes.
-- NCI1&NCI109:NCI1 and NCI109 represent two balanced subsets of datasets of chemical compounds screened
-  for activity against non-small cell lung cancer and ovarian cancer cell lines respectively
-  (Wale and Karypis (2006) and http://pubchem.ncbi.nlm.nih.gov).
-- ENZYMES: ENZYMES is a dataset of protein tertiary structures obtained from (Borgwardt et al., 2005)
-  consisting of 600 enzymes from the BRENDA enzyme database (Schomburg et al., 2004).
-  In this case the task is to correctly assign each enzyme to one of the 6 EC top-level
-  classes.
 
 ## Setting
 
