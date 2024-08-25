@@ -73,9 +73,9 @@ python build_data.py
 
 
 
-# Use HGAT as GNN
+# As GNN
 
-If you just wanna use the HGAT model as a graph neural network, you can just prepare some files following the above format:
+If you just wanna use the model as a graph neural network, you can just prepare some files following the above format:
 
      ./model/data/YourData/
         ---- YourData.cites                // the adjcencies
