@@ -15,7 +15,6 @@ python train.py
 
 You may change the dataset by modifying the variable "dataset = 'example'" in the top of the code "train.py" or use arguments (see train.py). 
 
-Our datasets can be downloaded from [Google Drive](https://drive.google.com/open?id=1pz1IMdJqkKidD7eEc3T_2-VkrUhkUKd4).   PS: I have accidentally deleted some files, but I tried to restore them, hope they will run correctly. 
 
 
 
