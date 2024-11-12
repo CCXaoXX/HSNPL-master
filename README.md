@@ -91,15 +91,15 @@ type_have_label = node_type
 
 ## Subgraph Contrastive Learning
 
-### Setting
+### Run
 
 ```
 cd ./SubgraphCL/
+cd ./dataset/ 
+python transform.py --dataset YourData
+python train.py --all the parameters can be viewed in the train.py
 ```
-
-1. cd ./dataset &python transform.py --dataset YourData
-2. python train.py (all the parameters can be viewed in the train.py)
-
+### Introduction
 - train.py: the core of this module, including the structure and the process of training
 - env.py, QLearning.py: the code about the Contrastive Learning part
 - GCN.py, layers.py: including the basic layers
