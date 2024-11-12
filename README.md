@@ -40,7 +40,7 @@ The format is as follows:
 - **YourData.content.text**
 
   Each line contains a node:    "idx\t[features]\t[category]\n", note that the [features] is a list of floats with '\t' as the delimiter.      eg:    "59	1.0	0.5	0.751	0.0	0.659	0.0	computers"
-  If used for multi-label classification,  [category] must be one-hot with space as a delimiter,       eg:   "59	1.0	0.5	0.751	0.0	0.659	0.0	0 1 1 0 1 0".
+  If used for multi-label classification,  [category] must be one-hot with space as a delimiter,       eg:   "59	1.0	0.5	0.751	0.0	0.659	0.0	0 1 1 0 1 0"
 
  - **YourData.content.entity**
 
