@@ -1,7 +1,7 @@
 # Easy Run
 
 ```
-cd ./HSNPL-master/Heterogeneous Graph Construction/code/
+cd ./model/code/
 python train.py
 ```
 
