@@ -1,21 +1,12 @@
-# Requirements
-
-- Anaconda3 (python 3.6)
-- Pytorch 1.3.1
-- gensim  3.6.0
-
-
-
 # Easy Run
 
 ```
-cd ./model/code/
+cd ./HSNPL-master/Heterogeneous Graph Construction/code/
 python train.py
 ```
 
 You may change the dataset by modifying the variable "dataset = 'example'" in the top of the code "train.py" or use arguments (see train.py). 
 
-Our datasets can be downloaded from [Google Drive](https://drive.google.com/open?id=1pz1IMdJqkKidD7eEc3T_2-VkrUhkUKd4).   PS: I have accidentally deleted some files, but I tried to restore them, hope they will run correctly. 
 
 
 
@@ -59,7 +50,7 @@ You can see the example in ./model/data/example/*
 
 ----
 
-A simple data preprocessing code is provided. Successfully running it requires a token of [tagme](https://sobigdata.d4science.org/web/tagme/tagme-help "TagMe")'s account  (my personal token is provided  in tagme.py, but may be invalid in the future), [Wikipedia](https://dumps.wikimedia.org/ "WikiPedia")'s entity descriptions, and a word2vec model containing entity embeddings. You can prepare them yourself or obtain our files from [Google Drive](https://drive.google.com/open?id=1v9GD5ezHGbekoLDw5aAzh6-C-QUS-j93) and unzip them to ./data/ .
+A simple data preprocessing code is provided. Successfully running it requires a token of [tagme](https://sobigdata.d4science.org/web/tagme/tagme-help "TagMe")'s account  (my personal token is provided  in tagme.py, but may be invalid in the future), [Wikipedia](https://dumps.wikimedia.org/ "WikiPedia")'s entity descriptions, and a word2vec model containing entity embeddings. 
 
 Then, you should prepare a data file like ./data/example/example.txt, whose format is:         "[idx]\t[category]\t[content]\n". 
 
@@ -74,9 +65,9 @@ python build_data.py
 
 
 
-# Use HGAT as GNN
+# As GNN
 
-If you just wanna use the HGAT model as a graph neural network, you can just prepare some files following the above format:
+If you just wanna use the model as a graph neural network, you can just prepare some files following the above format:
 
      ./model/data/YourData/
         ---- YourData.cites                // the adjcencies
