@@ -1,11 +1,3 @@
-# Requirements
-
-- Anaconda3 (python 3.6)
-- Pytorch 1.3.1
-- gensim  3.6.0
-
-
-
 # Easy Run
 
 ```
