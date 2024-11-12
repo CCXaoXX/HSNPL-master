@@ -1,11 +1,13 @@
 # README
 
 ## Introduction
-Our model is divided into three modules: heterogeneous graph network and subgraph contrastive learning.
-You can find specific descriptions in the corresponding directories.
+Our model is divided into three modules: heterogeneous graph network and subgraph contrastive learning. You can find specific descriptions in the corresponding directories.
+
+## Requirement
+Utilize pip install -r requirements.txt to set 
 
 ## Citation
-If you make advantage of the HSNPL model in your research, please cite the following in your manuscript:
+If you take advantage of the HSNPL model in your research, please cite the following in your manuscript:
 ```
 @article{chen2024heterogeneous,
   title={Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media},
