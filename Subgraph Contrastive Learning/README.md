@@ -1,9 +1,9 @@
 ## Overview
 
 - train.py: the core of our model, including the structure and the process of training.
-- env.py, QLearning.py: the code about RL method
+- env.py, QLearning.py: the code about Contrastive Learning method
 - GCN.py, layers.py: including the basic layers we used in the main model.
-- dataset/: including the dataset:MUTAG, DD, NCI1, NCI109, PTC_MR, ENZYMES, PROTEINS.
+- dataset/: 
   - 'RAW/': the original data of the dataset
   - adj.npy: the biggest Adjacency Matrix built from dataset
   - graph_label.npy: the label of every sub_graph
@@ -13,13 +13,12 @@
 
 ## Setting
 
-1. setting python env using pip install -r requirements.txt
-2. cd ./dataset &python transform.py --dataset MUTAG
-3.  python train.py(all the parameters could be viewed in the train.py)
+1. cd ./dataset &python transform.py --dataset YourData
+2.  python train.py(all the parameters could be viewed in the train.py)
 
 ## Parameters
 ````
-     --dataset DATASET
+     --dataset YourData
      --num_info NUM_INFO
      --lr LR (learning_rate)
      --max_pool MAX_POOL
