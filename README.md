@@ -100,6 +100,7 @@ python transform.py --dataset YourData
 python train.py --all the parameters can be viewed in the train.py
 ```
 ### Introduction
+```
 - train.py: the core of this module, including the structure and the process of training
 - env.py, QLearning.py: the code about the Contrastive Learning part
 - GCN.py, layers.py: including the basic layers
@@ -109,6 +110,7 @@ python train.py --all the parameters can be viewed in the train.py
   - graph_label.npy: the label of every sub_graph
   - sub_adj.npy: the Adjacency Matrix of subgraph through sampling
   - features.npy: the pre-processed features of each subgraph
+```
 
 ### Parameters
 ````
