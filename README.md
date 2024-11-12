@@ -1,4 +1,9 @@
 # README
+
+## Introduction
+Our model is divided into three modules: heterogeneous graph network and subgraph contrastive learning.
+You can find specific descriptions in the corresponding directories.
+
 ## Citation
 If you make advantage of the HSNPL model in your research, please cite the following in your manuscript:
 ```
