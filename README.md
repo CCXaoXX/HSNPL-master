@@ -1,8 +1,5 @@
 # README
 
-## Introduction
-Our model is divided into three modules: heterogeneous graph network and subgraph contrastive learning. You can find specific descriptions in the corresponding directories.
-
 ## Requirement
 Utilize 'pip install -r requirements.txt' to set 
 
@@ -113,7 +110,7 @@ cd ./SubgraphCL/
   - sub_adj.npy: the Adjacency Matrix of subgraph through sampling
   - features.npy: the pre-processed features of each subgraph
 
-## Parameters
+### Parameters
 ````
      --dataset YourData
      --num_info NUM_INFO
