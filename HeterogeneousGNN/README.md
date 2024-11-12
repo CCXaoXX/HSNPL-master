@@ -63,7 +63,7 @@ python build_features.py
 python build_data.py
 ```
 
-
+Subgraph Contrastive Learning runs in the next section。
 
 # As GNN
 
