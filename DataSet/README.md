@@ -1,6 +1,6 @@
 # Dataset
 
-We've provided a pre-processed dataset, which can be used for easy runs.
+We've provided a pre-processed dataset, which can be used for easy runs. You also can find some details in the README of HSNPL-master.
 
 ## HeterogeneousGNN
 
