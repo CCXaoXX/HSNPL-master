@@ -5,7 +5,7 @@ We've provided a pre-processed dataset, which can be used for easy runs. You als
 ## HeterogeneousGNN
 
 + `depression.txt`: Filtered depression dataset
-+ `depression.conten`t: All kinds of features, such as prompt **scale**, **time** distribution, **emo**ticon ratio, **sent**iment word ratio, first-**person** singular and plural ratio, original and retweeted tweets(**twt**), following and follower lists(**net**)
++ `depression.content`: All kinds of features, such as prompt **scale**, **time** distribution, **emo**ticon ratio, **sent**iment word ratio, first-**person** singular and plural ratio, original and retweeted tweets(**twt**), following and follower lists(**net**)
 + Those files belong to `HeterogeneousGNN/model/data/YourData/`
 
 ## SubgraphCL
