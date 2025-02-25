@@ -1,0 +1,20 @@
+i mask feel down hearted and blue.	1	2	3	4
+morning is when i mask feel the best.	4	3	2	1
+i mask have crying spells or feel like it.	1	2	3	4
+i mask have trouble sleeping at night.	1	2	3	4
+i mask eat as much as i used to.	4	3	2	1
+i mask still enjoy sex.	4	3	2	1
+i mask notice that i am losing weight.	1	2	3	4
+i mask have trouble with constipation.	1	2	3	4
+my heart mask beats faster than usual.	1	2	3	4
+i mask get tired for no reason.	1	2	3	4
+my mind mask is as clear as it used to be.	4	3	2	1
+i mask find it easy to do the things i used to.	4	3	2	1
+i am mask restless and can’t keep still.	1	2	3	4
+i mask feel hopeful about the future.	4	3	2	1
+i am mask more irritable than usual.	1	2	3	4
+i mask find it easy to make decisions.	4	3	2	1
+i mask feel that i am useful and needed.	4	3	2	1
+my life is mask pretty full.	4	3	2	1
+i mask feel that others would be better off if i were dead.	1	2	3	4
+i mask still enjoy the things i used to do.	4	3	2	1
