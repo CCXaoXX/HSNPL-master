@@ -3,6 +3,9 @@
 ## Requirement
 Utilize 'pip install -r requirements.txt' to set 
 
+## Data
+Some introduction about dataset can be found in `HSNPL-master/DataSet`.
+
 ## Heterogeneous Graph Neural Network
 
 ### Easy Run
