@@ -134,10 +134,12 @@ See the codes for more details.
 ## Citation
 If you take advantage of the HSNPL model in your research, please cite the following in your manuscript:
 ```
-@article{chen2024heterogeneous,
-  title={Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media},
-  author={Chen, Chen and Li, Mingwei and Li, Fenghuan and Chen, Haopeng and Lin, Yuankun},
-  journal={arXiv preprint arXiv:2407.09019},
-  year={2024}
+@article{CHEN2025113215,
+title = {Heterogeneous subgraph network with prompt learning for interpretable depression detection on social media},
+journal = {Knowledge-Based Systems},
+pages = {113215},
+year = {2025},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2025.113215},
 }
 ```
