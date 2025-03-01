@@ -140,6 +140,6 @@ journal = {Knowledge-Based Systems},
 pages = {113215},
 year = {2025},
 issn = {0950-7051},
-doi = {https://doi.org/10.1016/j.knosys.2025.113215},
+doi = {https://doi.org/10.1016/j.knosys.2025.113215}
 }
 ```
