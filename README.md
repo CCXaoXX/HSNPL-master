@@ -137,6 +137,7 @@ If you take advantage of the HSNPL model in your research, please cite the follo
 @article{CHEN2025113215,
 title = {Heterogeneous subgraph network with prompt learning for interpretable depression detection on social media},
 journal = {Knowledge-Based Systems},
+volume = {315},
 pages = {113215},
 year = {2025},
 issn = {0950-7051},
